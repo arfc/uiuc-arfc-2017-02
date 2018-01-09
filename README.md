@@ -6,7 +6,10 @@ This is a public repository holding a template for ARFC reports.
 How To
 -------
 
-To create a branch to hold a new publication you would like to start working 
+Follow the instructions at [the arfc 
+site](https://arfc.github.io/manual/guides/writing/report).
+
+Once To create a branch to hold a new publication you would like to start working 
 on:
 
 - have a GitHub account 
