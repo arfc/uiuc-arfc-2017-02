@@ -1,8 +1,7 @@
-Publications
-============
+Report Template
+===============
 
-This is a public repository for the shared development of
-publications.  
+This is a public repository holding a template for ARFC reports.
 
 How To
 -------
